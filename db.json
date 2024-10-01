@@ -10,7 +10,28 @@
     "bathroomTotal": "2",
      "ListPrice": "850000", 
       "MlsStatus": "Active",
-    "Media" : [{"MediaURL": "https://dvvjkgh94f2v6.cloudfront.net/8c5f5108/302668383/83dcefb7.jpeg"}]
+    "Media" : [
+       {
+       "Order": 1,
+       "MediaURL": "https://dvvjkgh94f2v6.cloudfront.net/8c5f5108/302668383/a15d25e1.jpeg"
+       }, 
+       {
+         "Order": 2,
+         "MediaURL": "https://dvvjkgh94f2v6.cloudfront.net/8c5f5108/302668383/d65a1577.jpeg"
+       },
+       {
+         "Order": 3,
+         "MediaURL":  "https://dvvjkgh94f2v6.cloudfront.net/8c5f5108/302668383/4f5344cd.jpeg"
+       },
+       {
+         "Order": 4,
+         "MediaURL": "https://dvvjkgh94f2v6.cloudfront.net/8c5f5108/302668383/3854745b.jpeg"
+       },
+       {
+         "Order": 5,
+         "MediaURL": "https://dvvjkgh94f2v6.cloudfront.net/8c5f5108/302668383/a630e1f8.jpeg"
+       }
+    ]
   },
   {
     "mlsId": "CR-307811",
@@ -118,7 +139,29 @@
     "bedroomsTotal": "4",
     "bathroomTotal": "3",
      "ListPrice": "1995000", 
-       "MlsStatus": "Active"
+       "MlsStatus": "Active",
+     "Media" : [
+       {
+       "Order": 1,
+       "MediaURL": "https://dvvjkgh94f2v6.cloudfront.net/8c5f5108/302668383/a15d25e1.jpeg"
+       }, 
+       {
+         "Order": 2,
+         "MediaURL": "https://dvvjkgh94f2v6.cloudfront.net/8c5f5108/302668383/d65a1577.jpeg"
+       },
+       {
+         "Order": 3,
+         "MediaURL":  "https://dvvjkgh94f2v6.cloudfront.net/8c5f5108/302668383/4f5344cd.jpeg"
+       },
+       {
+         "Order": 4,
+         "MediaURL": "https://dvvjkgh94f2v6.cloudfront.net/8c5f5108/302668383/3854745b.jpeg"
+       },
+       {
+         "Order": 5,
+         "MediaURL": "https://dvvjkgh94f2v6.cloudfront.net/8c5f5108/302668383/a630e1f8.jpeg"
+       }
+    ]
   }
 ],
     "profile": {
